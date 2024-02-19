@@ -1,4 +1,5 @@
-**Grand-Housing-Society-Event**
+                                                                  **Grand-Housing-Society-Event**
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 In this project, a housing society organizing a grand event and the given dataset contains information about the society's residents and flats. 
 My goal is to analyze the data to better understand the residents, their flats, and their participation in the upcoming event.
