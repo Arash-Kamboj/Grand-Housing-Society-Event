@@ -24,7 +24,7 @@ Through this project, I have enhanced my practical problem-solving skills and pr
 - Python libraries:
   Numpy,
   Pandas
--  Pthon Operators:
+-  Python Operators:
    Arithmetic Operators,
    Comparison Operators,
    Assignment Operators,
@@ -36,7 +36,7 @@ Through this project, I have enhanced my practical problem-solving skills and pr
 - Seaborn
 - Demographic Analysis
 - Distribution Analysis using Piecharts.
-- Correlation Analysis using Scattreplots.
+- Correlation Analysis using Scatter Plots.
 - Categorical Analysis using Barplots.
 - Distribution Analysis using Boxpots.
 - Outlier detection using Boxplots.
