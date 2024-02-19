@@ -1,4 +1,4 @@
-                                                                  **Grand-Housing-Society-Event**
+**Grand-Housing-Society-Event**
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 In this project, a housing society organizing a grand event and the given dataset contains information about the society's residents and flats. 
