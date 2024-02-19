@@ -1,4 +1,5 @@
-**Grand-Housing-Society-Event**
+**Grand-Housing-Society-Event**   
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 In this project, a housing society organizing a grand event and the given dataset contains information about the society's residents and flats. 
@@ -13,8 +14,23 @@ Through this project, I have enhanced my practical problem-solving skills and pr
 **Skills used in this project:**
 ------------------------------------------------------------------------------------------------------------------------------------------------
 - Uploading and analysing dataset.
-- Cleaning dataset by filling null values and droping of unnecessary columns
+- Data Cleaning by filling null values and droping of unnecessary columns.
+- Data prepration and processing.
 - Dealing with duplicate values.
 - Conversion of datasets.
-- Data prepration and processing.
+- Built-In functions: info(), describe(), nunique(), isnull(), duplicated().sum(), groupby(), fillna(), str.lower(), str.title(), value_counts()
+- Lambda function.
+- Data Manipulation with Pandas
+- Data Manipulation : Indexing and Sorting
+- Data Manipulation : Grouping Data and Aggregation
+- Data Visualisation using the data libraries
+- Matplotlib
+- Seaborn
 - Demographic Analysis
+- Distribution Analysis using Piecharts.
+- Correlation Analysis using Scattreplots.
+- Categorical Analysis using Barplots.
+- Distribution Analysis using Boxpots.
+- Outlier detection using Boxplots.
+- Chart Customization.
+
