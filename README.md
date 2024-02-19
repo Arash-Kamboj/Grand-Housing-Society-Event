@@ -22,13 +22,13 @@ Through this project, I have enhanced my practical problem-solving skills and pr
 - Built-In functions: info(), describe(), nunique(), isnull(), duplicated().sum(), groupby(), fillna(), str.lower(), str.title(), value_counts()
 - Lambda function.
 - Python libraries:
-  Numpy
-   Pandas
+  Numpy,
+  Pandas
 -  Pthon Operators:
-   Arithmetic Operators
-   Comparison Operators
-   Assignment Operators
-   Logical Operators
+   Arithmetic Operators,
+   Comparison Operators,
+   Assignment Operators,
+   Logical Operators,
 - Data Manipulation : Indexing and Sorting
 - Data Manipulation : Grouping Data and Aggregation
 - Data Visualisation using the data libraries
