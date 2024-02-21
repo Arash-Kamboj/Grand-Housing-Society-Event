@@ -1,5 +1,6 @@
 **Grand Housing Society Event**   
-![image](https://github.com/Arash-Kamboj/Grand-Housing-Society-Event/assets/156613048/65451528-c785-4755-b577-f47363c28d4b)
+![image](https://github.com/Arash-Kamboj/Grand-Housing-Society-Event/assets/156613048/fc37939d-3c99-4cb5-a03a-b3f68e6b62b4)
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
